@@ -1,0 +1,3 @@
+/mcb/mcb.bak
+/mcb/mcb.dat
+/mcb/mcb.dir
